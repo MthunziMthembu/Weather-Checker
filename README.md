@@ -6,4 +6,6 @@ A simple Python program that checks the weather forecast, identifies the day of 
 📅 Day of the Week Checker – Tells you if it’s the start of the week, almost the weekend, or just another day.
 📏 Beginner-Friendly Code – Easy to read and understand for Python learners.
 
- Weather-Checker
+🚀 Getting Started
+Requirements
+Python 3.x is installed on your computer
